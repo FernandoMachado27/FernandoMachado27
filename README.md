@@ -20,4 +20,4 @@
   <img align="center" alt="azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </div><br>
 
-Apaixonado por tecnologia, buscando o sonho de me tornar Desenvolvedor Java Full Stack.
+Apaixonado por tecnologia, buscando o sonho de me tornar um Desenvolvedor Java Full Stack.
