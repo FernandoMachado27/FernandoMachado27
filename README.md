@@ -14,3 +14,5 @@
   <img align="center" alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img align="center" alt="azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </div><br>
+
+### Seeking new knowledge and chasing the dream of becoming a Java developer
