@@ -23,5 +23,3 @@
 </div><br>
 
 ### Seeking new knowledge and chasing the dream of becoming a Java developer
-
-![Snake animation](https://github.com/FernandoMachado27/FernandoMachado27/blob/output/github-contribution-grid-snake.svg)
