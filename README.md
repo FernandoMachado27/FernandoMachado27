@@ -5,10 +5,10 @@
 
 <div>
 <a href="https://github.com/FernandoMachado27">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoMachado27&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoMachado27&show_icons=true&theme=onedark"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoMachado27&layout=compact&langs_count=7&theme=onedark"/>
 </div>
-
+ 
 ### Technologies I've Used
 
 <div style="display: inline_block"<br/>>
